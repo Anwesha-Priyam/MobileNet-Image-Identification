@@ -1,0 +1,80 @@
+body
+{
+    font-family: 'Covered By Your Grace', cursive;
+    background-color: tan;
+}
+.header-div
+{
+    background: #f5db;
+    color: red;
+}
+.header-div img
+{
+    width: 100px;
+}
+.footer-div
+{
+    margin: bottom 50px;
+}
+.mainDiv
+{
+  margin-top: 15px;
+  padding: 0px;
+}
+.mainDiv label
+{
+    background: slateblue;
+    width:300px;
+    font-size: 17;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px snow;
+}
+#Webcam,#result
+{
+    border: 2px solid lightsalmon;
+    width: 300px;
+    height: 270px;
+    box-shadow: 5px 5px 18px lightpink;
+}
+.mainDiv button
+{
+    width: 250px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px lightskyblue;
+    border: 1px solid;
+}
+.footer-div
+{
+    background: salmon;
+    border-radius: 10px;
+    margin-top: 184px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 18px rgba(255, 155, 220, 0.87);
+}
+.footer-div label
+{
+    font-size: 19px;
+    color: indigo;
+}
+.footer-div img
+{
+    width: 70px;
+}
+.copyRightFooter
+{
+    position: fixed;
+    color: maroon;
+    bottom: 0;
+    width: 100%;
+    background-color: honeydew;
+    line-height: 3;
+    text-align: center;
+}
+.main_div label
+{
+    background-color: powderblue;
+    width: 350px;
+    box-shadow:5px 5px 18px royalblue;
+    margin-bottom: 0px;
+    font-size: 17px;
+}
